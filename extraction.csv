@@ -1,0 +1,21 @@
+URL,DOMAIN,NAME,CLEANED_NAME,TICKER
+https://www.google.com,google,Google LLC,Google,GOOG
+https://www.apple.com,apple,Apple Inc.,Apple,AAPL
+https://www.microsoft.com,microsoft,Microsoft Corporation,Microsoft,MSFT
+https://www.amazon.com,amazon,"Amazon Technologies, Inc.",Amazon Technologies,AMZN
+https://www.meta.com,meta,"Meta Platforms, Inc.",Meta Platforms,META
+https://www.netflix.com,netflix,"Netflix, Inc.",Netflix,NFLX
+https://www.tesla.com,tesla,DNStination Inc.,DNStination,TSLA
+https://www.ibm.com,ibm,International Business Machines Corporation,International Business Machines,IBM
+https://www.intel.com,intel,Intel Corporation,Intel,INTC
+https://www.adobe.com,adobe,Adobe Inc.,Adobe,ADBE
+https://www.oracle.com,oracle,Oracle Corporation,Oracle,ORCL
+https://www.salesforce.com,salesforce,"Salesforce.com, Inc.",Salesforce.com,0QYJ.IL
+https://www.paypal.com,paypal,PayPal Inc.,PayPal,PYPL
+https://www.nvidia.com,nvidia,Nvidia,Nvidia,NVDA
+https://www.samsung.com,samsung,Samsung,Samsung,005930.KS
+https://www.sony.com,sony,Sony Corporation of America,Sony  of America,SONY
+https://www.cisco.com,cisco,Cisco Technology Inc.,Cisco Technology,CSCO
+https://www.dropbox.com,dropbox,"Dropbox, Inc.",Dropbox,DBX
+https://www.hp.com,hp,HP Inc.,HP,HPQ
+https://www.dell.com,dell,Dell,Dell,DELL
