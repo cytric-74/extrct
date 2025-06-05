@@ -82,7 +82,7 @@ def get_ticker(company_name, domain=None):
         return ""
     except Exception as e:
         print(f"Error getting ticker for {company_name}: {e}")
-        return "")
+        return ""
 
 #caching for duplications
 
