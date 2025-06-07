@@ -5,6 +5,7 @@ Python script takes a list of company/organization URLs and extracts:
 - The corresponding **stock ticker symbol** (from Yahoo Finance API)
 
 So. I was thinking to use webscrapping along with yfinance, for better and accurate outputs. Thats one of the way to also approach the problem. Why i didnt approach it? seems like this way was sort of an essay escape, but in future will alsp upload a file with webscrapping technique or the one with APIs (especially the api from linkdin for better name search).
+In this one in particular i have tried to guess the name of the orgs or companies if Im not able to find them on Whois. 
 
 # Output
 ![here is the output](output.png)
